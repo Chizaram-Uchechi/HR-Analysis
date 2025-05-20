@@ -40,22 +40,21 @@ Built an interactive HR dashboard in Power BI to track key metrics retention, at
 <h2>HR DASHBOARD</h2>
 
 <p align="left">
-  Home Page <br/>
-<img src="https://imgur.com/i9xvCZC.png" height="80%" width="80%" alt="HR DASHBOARD"/>
+Home Page <br/>
+<img src="https://imgur.com/MppH0OQ.png" height="80%" width="80%" alt="HR DASHBOARD"/>
 <br />
 <br />
 
   
-  Employees Page  <br/>
+Employees Page  <br/>
 <img src="https://imgur.com/AxrVkmR.png" height="80%" width="80%" alt="HR DASHBOARD"/>
 <br />
 <br />
 
-  Details Page <br/>
+Details Page <br/>
 <img src="https://imgur.com/WS5gzSF.png" height="80%" width="80%" alt="HR DASHBOARD"/>
 <br />
 <br />
-
 </p>
 
 <!--
